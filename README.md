@@ -13,3 +13,5 @@
 1. Push repo ขึ้น GitHub
 2. เชื่อม Vercel กับ repo
 3. ตั้ง Environment Variable:
+GEMINI_API_KEY = (API Key ของคุณ)
+5. Deploy → พร้อมใช้งาน
